@@ -6,8 +6,6 @@ Just upgraded my useful homemade handheld mini air station to make it more usefu
 
 ![alt text](https://github.com/ahmetakif/Arduino-Based-Functional-Device-Smart-Weather-Forecast-Servo-Test-Component-Control-Reading-Text/blob/master/IMAGES/1.png?raw=true)
 
-See Project Page: https://ahmetakifkayaprojeblog.blogspot.com/2018/06/arduino-ile-islevsel-cihaz-akll-hava.html
-
 See Video: https://www.instagram.com/p/BSOj-joBCYZ/?utm_source=ig_embed&utm_campaign=embed_video_watch_again
 
 See Other Open Source Code: https://github.com/ahmetakif/Arduino-Weather-Station-Dht11-Bmp180
